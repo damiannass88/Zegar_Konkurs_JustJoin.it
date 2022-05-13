@@ -1,17 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
-class Z : Window
+public class Z : Window
 {
     /// <summary>
-    ///  Kliknij aby znaleźć Twój Czas.. :)
+    ///  Kliknij aby znaleść Twój Czas.. :)
     ///  
-    /// (Naturalnie liczę że komentarz summary, nie jest liczony jako chars algorytmu :D )
+    /// Branch "Char_Randomly_displaying" jeśli bym miał kilka dodatkowych char do użycia.. :)
     /// </summary>
     Z()
     {
-        Width = 490; 
+        Width = 490;
 
         Grid g = new();
         Content = g;
@@ -19,6 +20,8 @@ class Z : Window
         w.HorizontalAlignment = HorizontalAlignment.Center;
         g.Children.Add(w);
 
+        Random r = new();
+        List<TextBlock> l = new();
         for (int i = 0; i < 12; i++)
         {
             for (int j = 10; j < 60; j += 2)
@@ -28,9 +31,11 @@ class Z : Window
                 b.Width = 40;
                 b.MouseLeftButtonUp += C;
 
-                w.Children.Add(b);
+                l.Insert(r.Next(0, l.Count + 1), b);
             }
         }
+        foreach (TextBlock xInt in l)
+            w.Children.Add(xInt);
     }
 
     void C(object sender, RoutedEventArgs e)
@@ -38,7 +43,11 @@ class Z : Window
         TextBlock T = (TextBlock)sender;
         T.Text = Encoding.UTF8.GetString(Convert.FromBase64String(T.Text));
         if (T.Text == "  10:24")
-         T.FontSize = 14;
+        // T.FontSize = 14;
+        {
+            T.FontSize = 16;
+            T.Text = T.Text.Trim();
+        }
         T.IsEnabled = false;
     }
 
