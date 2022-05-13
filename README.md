@@ -25,7 +25,7 @@ No i nie zapomnijmy o dodatkowych fantach, które też są fajne! MUST HAVE<br/>
 <br/>
 Nie było łatwo znieścić się w tak małej ilości max znaków, i żałuję że nie mogłem dopisać displaying characters randomly. Ale oto otrzymane nagrody od JustJoin.it ( ͡° ͜ʖ ͡°):<br/><br/>
 
-<div style="display:table;text-align: center" >
+<div align="center"> 
 <img src="https://user-images.githubusercontent.com/55595642/168247939-c73e7564-4262-4e71-99c0-434fcc0bfdac.jpg" width="500" />
 
 <img src="https://user-images.githubusercontent.com/55595642/168247974-f43e527a-8fa1-4bef-a41c-0adcd628da69.jpg" width="500" />
