@@ -23,7 +23,7 @@ No i nie zapomnijmy o dodatkowych fantach, które też są fajne! MUST HAVE<br/>
 
 <kbd><img src="https://user-images.githubusercontent.com/55595642/168246114-36734419-ab21-4b4c-8f59-e6230403c01f.png"  width="900"/></kbd>
 <br/><br/>
-Nie było łatwo znieścić się w tak małej ilości max znaków, i żałuję że nie mogłem dopisać displaying characters randomly. Ale oto otrzymane nagrody od JustJoin.it ( ͡° ͜ʖ ͡°):<br/><br/>
+Nie było łatwo zmieścić się w tak małej ilości max. znaków, i żałuję że nie mogłem dopisać displaying characters randomly. Ale oto otrzymane nagrody od JustJoin.it ( ͡° ͜ʖ ͡°):<br/><br/>
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/55595642/168247939-c73e7564-4262-4e71-99c0-434fcc0bfdac.jpg" width="500" />
