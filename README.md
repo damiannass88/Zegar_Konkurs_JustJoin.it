@@ -8,7 +8,7 @@ Napisałem Micro program dla JustJoin.it, i zostałem jednym ze zwycięzców, ic
 
 treść konkursu 10:24:<br>
 
-![278571038_3102217903350001_5853320988777934628_n](https://user-images.githubusercontent.com/55595642/168244598-5f5dbb15-18c9-44e7-be2d-437b48aa8c2a.png | width=200)
+<img src="https://user-images.githubusercontent.com/55595642/168244598-5f5dbb15-18c9-44e7-be2d-437b48aa8c2a.png" width="200" />
 
 "<b>Programista .Net - 1024K ( ͡° ͜ʖ ͡°) :</b><br>
 kreatywność (nice to have) .Net (advanced), Nikt nie spodziewał się, konkursu w ogoszeniu o pracę! Wiemy, wiemy, szukasz I dobrze się składa, bo możemy Ci w tym pomóc.
