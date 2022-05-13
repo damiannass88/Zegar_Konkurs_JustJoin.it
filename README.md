@@ -22,7 +22,7 @@ No i nie zapomnijmy o dodatkowych fantach, które też są fajne! MUST HAVE<br/>
 <b>Program: musi się składać z nie mniej ni 256 i nie wicej ni 1024 znaków (bez spacji), musi w kreatywny sposób przedstawić godzinę 10:24,</b> musi by napisany w języku .NET, musi być przesłany w formacie .DOC lub .RTF, musi być Twoim autorskim dziełem. Tak adnie sporządzony pliczek możesz wysłać na: ****** - resztą zajmiemy się my ;) CO MOŻNA WYGRAĆ? promocja Twojego profilu na GitHubie lub profilu LinkedIn na kanałach social mediowych Just Join IT, legendarny zegarek Casio z grawerem, bluzę Just Join IT. Minała 10:24, synchronizujemy więc zegarki i czas start! Na Wasze propozycje czekamy do końca 10.04.2022."<br/><br/>
 
 <kbd><img src="https://user-images.githubusercontent.com/55595642/168246114-36734419-ab21-4b4c-8f59-e6230403c01f.png"  width="900"/></kbd>
-<br/>
+<br/><br/>
 Nie było łatwo znieścić się w tak małej ilości max znaków, i żałuję że nie mogłem dopisać displaying characters randomly. Ale oto otrzymane nagrody od JustJoin.it ( ͡° ͜ʖ ͡°):<br/><br/>
 
 <div align="center"> 
