@@ -5,14 +5,13 @@ using System.Windows.Controls;
 class Z : Window
 {
     /// <summary>
-    ///  Kliknij aby znaleść Twój Czas.. :)
+    ///  Kliknij aby znaleźć Twój Czas.. :)
     ///  
     /// (Naturalnie liczę że komentarz summary, nie jest liczony jako chars algorytmu :D )
     /// </summary>
     Z()
     {
-        Width = 490;
-        Height = 440;
+        Width = 490; 
 
         Grid g = new();
         Content = g;
@@ -22,7 +21,7 @@ class Z : Window
 
         for (int i = 0; i < 12; i++)
         {
-            for (int j = 10; j < 53; j += 2)
+            for (int j = 10; j < 60; j += 2)
             {
                 TextBlock b = new();
                 b.Text = Convert.ToBase64String(Encoding.UTF8.GetBytes("  " + i + ":" + j));
